@@ -1,2 +1,1 @@
-# OOP_
- 
+Homeworks for GeekBrains OOP courses.
